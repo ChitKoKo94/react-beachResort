@@ -1,4 +1,4 @@
-##Welcome to react.js learning project
+## Welcome to react.js learning project
 
 This is basically following youtube tutorial from scratch, meant for learning and practising react.js.
 Project idea, code, data consuming from contentful, and deployment to netlify, all work credit to the youtuber, the link below.
